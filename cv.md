@@ -7,3 +7,8 @@
 * Github: https://github.com/NiKiTosIk2829
 ### Summary about myself:
  I am 20 years old, in 2020 I entered the Belarusian National Technical University, but I could not finish my studies because I moved to Poland.
+### Languages:
+ * Russian - Native
+ * Belarussian - Native
+ * English - A1
+ * polish - A2 
