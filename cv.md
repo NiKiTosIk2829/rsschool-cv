@@ -12,3 +12,7 @@
  * Belarussian - Native
  * English - A1
  * polish - A2 
+### Skills and Proficiency:
+ * HTML, CSS
+ * Git, Github
+ * VS Code
