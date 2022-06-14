@@ -1,3 +1,30 @@
-*{
-     box-sizing:border-box; 
+body{
+     background-color: darkgray;
+     font-style: italic;
+     font-size: 18px;
+     font-weight: 600;
+     font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+.foto {
+     width: 200px;
+     border-radius: 30px;
+     box-shadow: 6px 6px 14px ;
+
+}
+.name h1 {
+     color: rgb(52, 19, 76);
+}
+a {
+     color: black;
+}
+a:visited {
+     color: blueviolet;
+}
+.ots{
+     margin: 40px;
+}
+.tab {
+     width: 70%;
+     border-radius: 20px;
 }
