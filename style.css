@@ -1,0 +1,64 @@
+body{
+    background-color: darkgray;
+    font-style: italic;
+    font-size: 18px;
+    font-weight: 600;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+.foto {
+    width: 200px;
+    border-radius: 30px;
+    box-shadow: 6px 6px 14px ;
+
+}
+
+h1 {
+    color: brown;
+}
+
+a {
+    color: black;
+}
+a:visited {
+    color: blueviolet;
+}
+
+main {
+    margin: 40px;
+}
+
+.tab {
+    width: 70%;
+    border-radius: 20px;
+}
+
+h2 {
+    text-align: center;
+}
+  
+  .footer__wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 80px;
+  }
+  
+  .footer__wrapper > li {
+    list-style-type: none;
+  }
+  
+  .footer__contact-item {
+    width: 40px;
+    height: 40px;
+  }
+  
+  .footer__rs-school {
+    width: 80px;
+  }
+
+  nav {
+    height: 60px;
+
+  }
